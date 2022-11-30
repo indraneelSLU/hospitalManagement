@@ -55,7 +55,7 @@ include("header.php");
 
     <div class="container-fluid" style="margin-top:60px;margin-bottom:60px;color:#34495E;">
       <div class="row">
-         <div class="col-md-4" style="margin-top: 5%;right: 8%">
+        <div class="col-md-4" style="margin-top: 5%;right: 8%;padding-left: 180px;">
           <div class="card" style="font-family: 'IBM Plex Sans', sans-serif;">
             <div class="card-body">
               <center>
