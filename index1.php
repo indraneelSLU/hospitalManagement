@@ -55,21 +55,6 @@ include("header.php");
 
     <div class="container-fluid" style="margin-top:60px;margin-bottom:60px;color:#34495E;">
       <div class="row">
-
-        
-
-         <div class="col-md-7" style="padding-left: 180px; ">
-                 <div style="-webkit-animation: mover 2s infinite alternate;
-    animation: mover 1s infinite alternate;">
-          <img src="images/ambulance1.png" alt="" style="width: 20%;padding-left: 40px;margin-top: 150px;margin-left: 45px;margin-bottom:15px">
-      </div>
-
-      <div style="color: white;">
-            <h4 style="font-family: 'IBM Plex Sans', sans-serif;"> We are here for you!</h4>
-          </div>
-
-         </div>
-
          <div class="col-md-4" style="margin-top: 5%;right: 8%">
           <div class="card" style="font-family: 'IBM Plex Sans', sans-serif;">
             <div class="card-body">
