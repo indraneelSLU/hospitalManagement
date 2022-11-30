@@ -191,11 +191,11 @@ function get_specs(){
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #342ac1;
+    background-color: #090909;
     border-color: #007bff;
 }
 .text-primary {
-    color: #342ac1!important;
+    color: #090909!important;
 }
 
 .btn-primary{
@@ -245,7 +245,6 @@ function get_specs(){
                <div class="col-sm-4" style="left: 5%">
                   <div class="panel panel-white no-radius text-center">
                     <div class="panel-body">
-                      <span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-terminal fa-stack-1x fa-inverse"></i> </span>
                       <h4 class="StepTitle" style="margin-top: 5%;"> Book My Appointment</h4>
                       <script>
                         function clickDiv(id) {
@@ -264,7 +263,6 @@ function get_specs(){
                 <div class="col-sm-4" style="left: 10%">
                   <div class="panel panel-white no-radius text-center">
                     <div class="panel-body" >
-                      <span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-paperclip fa-stack-1x fa-inverse"></i> </span>
                       <h4 class="StepTitle" style="margin-top: 5%;">My Appointments</h2>
                     
                       <p class="cl-effect-1">
@@ -280,7 +278,6 @@ function get_specs(){
                 <div class="col-sm-4" style="left: 20%;margin-top:5%">
                   <div class="panel panel-white no-radius text-center">
                     <div class="panel-body" >
-                      <span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-list-ul fa-stack-1x fa-inverse"></i> </span>
                       <h4 class="StepTitle" style="margin-top: 5%;">Prescriptions</h2>
                     
                       <p class="cl-effect-1">

@@ -78,11 +78,11 @@ if(isset($_POST['prescribe']) && isset($_POST['pid']) && isset($_POST['ID']) && 
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #342ac1;
+    background-color: #090909;
     border-color: #007bff;
 }
 .text-primary {
-    color: #342ac1!important;
+    color: #090909!important;
 }
 
 .btn-primary{
