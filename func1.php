@@ -17,7 +17,7 @@ if(isset($_POST['docsub1'])){
 	}
 	else{
     // header("Location:error2.php");
-    echo("<script>alert('Invalid Username or Password. Try Again!');
+    echo("<script>alert('Invalid Username or Password. Try Again! func1');
           window.location.href = 'index.php';</script>");
   }
 }
