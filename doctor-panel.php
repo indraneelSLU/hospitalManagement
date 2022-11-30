@@ -107,7 +107,7 @@ if(isset($_GET['cancel']))
     <div class="list-group" id="list-tab" role="tablist">
       <a class="list-group-item list-group-item-action active" href="#list-dash" role="tab" aria-controls="home" data-toggle="list">Dashboard</a>
       <a class="list-group-item list-group-item-action" href="#list-app" id="list-app-list" role="tab" data-toggle="list" aria-controls="home">Appointments</a>
-      <a class="list-group-item list-group-item-action" href="#list-pres" id="list-pres-list" role="tab" data-toggle="list" aria-controls="home"> Prescription List</a>
+      <a class="list-group-item list-group-item-action" href="#list-pres" id="list-pres-list" role="tab" data-toggle="list" aria-controls="home"> Prescriptions For Patients</a>
       
     </div><br>
   </div>
@@ -125,7 +125,7 @@ if(isset($_GET['cancel']))
                         <i class="fa fa-square fa-stack-2x text-primary"></i> 
                         <i class="fa fa-list fa-stack-1x fa-inverse"></i> 
                       </span> -->
-                      <h4 class="StepTitle" style="margin-top: 5%;"> View Appointments</h4>
+                      <h4 class="StepTitle" style="margin-top: 5%;"> Appointments</h4>
                       <script>
                         function clickDiv(id) {
                           document.querySelector(id).click();
@@ -133,7 +133,7 @@ if(isset($_GET['cancel']))
                       </script>                      
                       <p class="links cl-effect-1">
                         <a href="#list-app" onclick="clickDiv('#list-app-list')">
-                          Appointment List
+                          Show Appointments
                         </a>
                       </p>
                     </div>
@@ -143,8 +143,11 @@ if(isset($_GET['cancel']))
                 <div class="col-sm-4" style="left: 15%">
                   <div class="panel panel-white no-radius text-center">
                     <div class="panel-body">
-                      <span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-list-ul fa-stack-1x fa-inverse"></i> </span>
-                      <h4 class="StepTitle" style="margin-top: 5%;"> Prescriptions</h4>
+                      <!-- <span class="fa-stack fa-2x"> 
+                        <i class="fa fa-square fa-stack-2x text-primary"></i> 
+                        <i class="fa fa-list-ul fa-stack-1x fa-inverse"></i> 
+                      </span> -->
+                      <h4 class="StepTitle" style="margin-top: 5%;"> Prescriptions For Patients</h4>
                         
                       <p class="links cl-effect-1">
                         <a href="#list-pres" onclick="clickDiv('#list-pres-list')">
