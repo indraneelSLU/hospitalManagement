@@ -52,7 +52,7 @@ function checklen()
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" >
     <div class="container">
 
-      <a class="navbar-brand js-scroll-trigger" href="#" style="margin-top: 10px;margin-left:-65px;font-family: 'IBM Plex Sans', sans-serif;"><h4>&nbsp SSM Healthcare</h4></a>
+      <a class="navbar-brand js-scroll-trigger" href="#" style="margin-top: 10px;margin-left:-65px;font-family: 'IBM Plex Sans', sans-serif;"></a>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item" style="margin-right: 40px;">
@@ -69,6 +69,9 @@ function checklen()
 	
 
 <div class="container register" style="font-family: 'IBM Plex Sans', sans-serif;">
+        <div style="text-align:center;font-family: 'IBM Plex Sans';color:#ffffff;">
+            <h4>SSM Healthcare</h4>
+        </div>
                 <div class="row">
                        
                     <div class="col-md-9 register-right" style="margin-top: 40px;left: 80px;">
