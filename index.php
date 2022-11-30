@@ -69,6 +69,9 @@ function checklen()
 	
 
 <div class="container register" style="font-family: 'IBM Plex Sans', sans-serif;">
+        <div style="text-align:center;">
+            <h4>SSM Healthcare</h4>
+        </div>
                 <div class="row">
                        
                     <div class="col-md-9 register-right" style="margin-top: 40px;left: 80px;">
