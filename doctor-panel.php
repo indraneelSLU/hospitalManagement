@@ -121,7 +121,10 @@ if(isset($_GET['cancel']))
                <div class="col-sm-4" style="left: 10%">
                   <div class="panel panel-white no-radius text-center">
                     <div class="panel-body">
-                      <span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-list fa-stack-1x fa-inverse"></i> </span>
+                      <!-- <span class="fa-stack fa-2x"> 
+                        <i class="fa fa-square fa-stack-2x text-primary"></i> 
+                        <i class="fa fa-list fa-stack-1x fa-inverse"></i> 
+                      </span> -->
                       <h4 class="StepTitle" style="margin-top: 5%;"> View Appointments</h4>
                       <script>
                         function clickDiv(id) {
