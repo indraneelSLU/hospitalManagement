@@ -79,7 +79,7 @@ if(isset($_POST['prescribe']) && isset($_POST['pid']) && isset($_POST['ID']) && 
     z-index: 2;
     color: #fff;
     background-color: #090909;
-    border-color: #007bff;
+    border-color: #090909;
 }
 .text-primary {
     color: #090909!important;

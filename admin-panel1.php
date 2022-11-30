@@ -89,7 +89,7 @@ if(isset($_POST['docsub1']))
     z-index: 2;
     color: #fff;
     background-color: #090909;
-    border-color: #007bff;
+    border-color: #090909;
 }
 .text-primary {
     color: #090909!important;
@@ -104,7 +104,7 @@ if(isset($_POST['docsub1']))
 }
 
 .btn-primary{
-  background-color: #3c50c1;
+  background-color: #090909;
   border-color: #3c50c1;
 }
   </style>
