@@ -97,7 +97,7 @@ function checklen()
                                             <input type="text" class="form-control"  placeholder="First Name *" name="fname"  onkeydown="return alphaOnly(event);" required/>
                                         </div>
                                         <div class="form-group">
-                                            <input type="email" class="form-control" placeholder="Your Email *" name="email"  />
+                                            <input type="email" class="form-control" placeholder="Email" name="email"  />
                                         </div>
                                         <div class="form-group">
                                             <input type="password" class="form-control" placeholder="Password *" id="password" name="password" onkeyup='check();' required/>
@@ -124,7 +124,7 @@ function checklen()
                                         </div>
                                         
                                         <div class="form-group">
-                                            <input type="tel" minlength="10" maxlength="10" name="contact" class="form-control" placeholder="Your Phone *"  />
+                                            <input type="tel" minlength="10" maxlength="10" name="contact" class="form-control" placeholder="Phone Number"  />
                                         </div>
                                         <div class="form-group">
                                             <input type="password" class="form-control"  id="cpassword" placeholder="Confirm Password *" name="cpassword"  onkeyup='check();' required/><span id='message'></span>

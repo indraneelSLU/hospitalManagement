@@ -22,11 +22,6 @@ include("header.php");
   <style type="text/css">
     #inputbtn:hover{cursor:pointer;}
     .card{
-    background: #f8f9fa;
-    border-top-left-radius: 5% 5%;
-    border-bottom-left-radius: 5% 5%;
-    border-top-right-radius: 5% 5%;
-    border-bottom-right-radius: 5% 5%;
 }
 
   </style>
@@ -59,7 +54,6 @@ include("header.php");
           <div class="card" style="font-family: 'IBM Plex Sans', sans-serif;">
             <div class="card-body">
               <center>
-                <i class="fa fa-hospital-o fa-3x" aria-hidden="true" style="color:#0062cc"></i>
                 <br>
               <h3 style="margin-top: 10%">Patient Login</h3><br>
               <form class="form-group" method="POST" action="func.php">
