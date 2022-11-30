@@ -199,8 +199,8 @@ function get_specs(){
 }
 
 .btn-primary{
-  background-color: #3c50c1;
-  border-color: #3c50c1;
+  background-color: #090909;
+  border-color: #090909;
 }
   </style>
 
