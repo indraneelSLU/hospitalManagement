@@ -49,7 +49,8 @@ if(isset($_POST['app-submit']))
             echo "<script>alert('Your appointment successfully booked');</script>";
           }
           else{
-            echo "<script>alert('Unable to process your request. Please try again!');</script>";
+            echo "<script>alert('$pid,'$fname','$lname','$gender','$email','$contact','$doctor','$docFees','$appdate','$apptime');</script>";
+            // echo "<script>alert('Unable to process your request. Please try again!');</script>";
           }
       }
       else{
