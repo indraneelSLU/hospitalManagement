@@ -311,7 +311,7 @@ h5.over-title {
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-  background-color: #007AFF;
+  background-color: #111111;
   color: #fff;
 }
 
@@ -320,8 +320,8 @@ h5.over-title {
 }
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
-  background-color: #007AFF;
-  border-color: #007AFF;
+  background-color: #111111;
+  border-color: #111111;
 }
 
 .container-fullw {
