@@ -186,7 +186,7 @@ function get_specs(){
 
   <style >
     .bg-primary {
-    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+    background: -webkit-linear-gradient(left, #090909, #676869);
 }
 .list-group-item.active {
     z-index: 2;
