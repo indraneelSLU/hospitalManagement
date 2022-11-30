@@ -74,7 +74,7 @@ function checklen()
         </div>
                 <div class="row">
                        
-                    <div class="col-md-9 register-right" style="margin-top: 40px;left: 80px;">
+                    <div class="col-md-9" style="margin-top: 40px;left: 80px;">
                         <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist" style="width: 30%;">
                             <li class="nav-item">
                                 <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Patient</a>
